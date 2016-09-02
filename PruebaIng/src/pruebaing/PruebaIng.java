@@ -18,6 +18,8 @@ public class PruebaIng {
         // TODO code application logic here
     
         System.out.println("Te extraño");
+        System.out.println("AOPG");
+        
     }
     
 }
