@@ -17,7 +17,7 @@ public class PruebaIng {
     public static void main(String[] args) {
         // TODO code application logic here
     
-        System.out.println("Mi nombre es");
+        System.out.println("Jajjajajja ola");
     }
     
 }
